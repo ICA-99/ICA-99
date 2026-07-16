@@ -23,33 +23,31 @@
 
 <div align="center">
 
-## `< SYSTEM_LOG: ABOUT_ME />`
+## ⚡ `ABOUT_ME`
 
 </div>
 
-```yaml
-identity:
-  name: "Anjan Pal"
-  role: "AI Engineer"
-  status: "Building intelligent systems in the wild"
+I'm an **AI Engineer** who designs and deploys production-grade systems at the intersection of **Machine Learning**, **Deep Learning**, and **Large Language Models**. I turn research-grade AI into applications people actually use — from **RAG pipelines** to **autonomous agents** and the scalable APIs that power them.
 
-core_directives:
-  - "Design and deploy production-grade LLM applications"
-  - "Architect Retrieval-Augmented Generation (RAG) pipelines"
-  - "Engineer autonomous AI agents"
-  - "Ship scalable APIs powering Generative AI products"
+<div align="center">
 
-active_modules:
-  - GenerativeAI
-  - LLM_Applications
-  - RAG_Systems
-  - AI_Agents
+`🧠 GENERATIVE AI`&nbsp; `🔗 LLM APPLICATIONS`&nbsp; `📚 RAG SYSTEMS`&nbsp; `🤖 AI AGENTS`
 
-runtime:
-  languages: ["Python", "SQL"]
-  frameworks: ["PyTorch", "LangChain", "FastAPI"]
-  currently_compiling: ["LangGraph", "MCP", "Advanced_RAG", "Distributed_AI_Systems"]
-```
+</div>
+
+<br>
+
+<div align="center">
+
+⚡ &nbsp;Currently engineering **LLM-powered applications** with retrieval-augmented and agentic workflows
+&nbsp;
+🛰️ &nbsp;Leveling up in **LangGraph**, **MCP**, and **distributed AI systems**
+&nbsp;
+🤝 &nbsp;Open to collaborating on **AI/ML**, **GenAI**, and backend engineering builds
+&nbsp;
+📡 &nbsp;Reach me at **YOUR_EMAIL@gmail.com**
+
+</div>
 
 <br>
 
