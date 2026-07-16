@@ -11,8 +11,8 @@
 ![Build](https://img.shields.io/badge/BUILD-AI__ENGINEER__v2.0-00d9ff?style=for-the-badge&labelColor=000000)
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-00d9ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT_EMAIL-39ff14?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000"/></a>
+<a href="https://linkedin.com/in/linkedin.com/in/anjan-pal-ab5a5a247"><img src="https://img.shields.io/badge/LINKEDIN-00d9ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/></a>
+<a href="mailto:apaul80011@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT_EMAIL-39ff14?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000"/></a>
 <a href="https://github.com/ICA-99"><img src="https://img.shields.io/badge/GITHUB-ff00ff?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-ffea00?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000"/></a>
 </p>
