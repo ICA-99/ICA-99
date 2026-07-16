@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Anjan Pal
 
-<!--
-**ICA-99/ICA-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI Engineer
 
-Here are some ideas to get you started:
+🚀 I build Machine Learning, Deep Learning and AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- FastAPI
+- LangChain
+- PyTorch
+- TensorFlow
+- SQL
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/...
+- Email: your@email.com
